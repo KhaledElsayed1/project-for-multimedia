@@ -107,7 +107,7 @@ status_label.pack(pady=15)
 footer_frame = Frame(root, bg="#ECEFF1")
 footer_frame.pack(fill=X, pady=(20, 0))
 
-footer_label = Label(footer_frame, text="  created by Mohamed Hosam Ibrahim", font=("Helvetica", 10), bg="#ECEFF1", fg="#607D8B")
+footer_label = Label(footer_frame, text="  created by khaled elsayed elsayed mohamed", font=("Helvetica", 10), bg="#ECEFF1", fg="#607D8B")
 footer_label.pack(anchor="e", padx=20)
 
 
